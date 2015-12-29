@@ -1,0 +1,12 @@
+==@uthors : ===
+CHEN Patrick
+BEN AMMAR Ramzi
+===============
+
+Pour lancer le programme 
+lancer le jar 
+cd shell/
+java -jar *.jar
+
+Mais il faut lire de preference avant 
+le document .pdf qui fais office de mode d'emploie.
